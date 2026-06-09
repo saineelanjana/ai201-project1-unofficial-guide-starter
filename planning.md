@@ -59,20 +59,24 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** 300 tokens max (via recursive splitting)
+**Chunk size:** 300 tokens max (via recursive splitting; current implementation approximates tokens as words)
 
-**Overlap:** 50 tokens
+**Overlap:** 50 tokens (approximated as words)
 
-**Separators:** `["\n\n", "\n", ". ", " "]` (paragraph → line → sentence → word)
+**Separators / implemented rules:** the ingestion should follow a small set of rules, in priority order:
+- 1) Dashed-line pre-split: files are first scanned for dashed-line separators (lines containing 3+ hyphens). Any file containing such separators is split at those markers and each section between markers is emitted as an atomic chunk. This is useful for cleaned forum/markdown dumps that use `----` to separate posts.
+- 2) JSON special-casing: if a source file ends with `.json` and parses as a top-level object, the parser emits one chunk per top-level key (e.g., `course-stats.json` -> one chunk per course entry). If the top-level JSON is a list, the ingest emits one chunk per list element.
+- 3) Fallback recursive splitting: for any remaining text the code uses recursive splitting on separators `[`"\n\n"`, `"\n"`, `". "`, `" "`]` (paragraph → line → sentence → word) until pieces are <= the configured chunk size. If no separator produces smaller pieces the algorithm falls back to word-window chunking with overlap.
 
-**Reasoning:**
-Use `RecursiveCharacterTextSplitter` for all documents. This approach:
-- Respects natural boundaries (paragraphs, sentences) rather than cutting arbitrarily at fixed token count
-- Produces variable-size chunks (80–300 tokens) that reflect content structure
-- Keeps advice blocks and policy statements together instead of splitting mid-thought
-- Still simple: one splitter, no routing logic, no per-document-type complexity
+This hybrid approach preserves human-visible boundaries (dashes, JSON entries) while still enforcing the configured chunk-size/overlap behavior for long sections.
 
-**Chunk variance is intentional** — a 100-token chunk means a complete thought wrapped up. A 280-token chunk means a big advice block. This structure will be visible in retrieval logs and helps with debugging. If something breaks, the log will show "oh, this advice got split across two chunks at a paragraph boundary" rather than "some random token-count boundary."
+**Reasoning / notes:**
+- Keeps structured data together: JSON objects (course records, tables) are preserved as single chunks so they don't get shredded into line-level fragments.
+- Preserves forum/thread boundaries: many cleaned markdown files use `----` to delimit posts or comments; honoring those separators yields semantically coherent chunks.
+- Still respects the original recursive strategy for unstructured text: paragraphs → lines → sentences → words, with a word-count approximation of token limits.
+- The current implementation approximates tokens with words (1 token ≈ 1 word). For better accuracy before embedding or when using LLMs with strict context windows, switch to token-aware splitting (e.g., `tiktoken` or a HuggingFace tokenizer) — I can add this easily.
+
+**Chunk variance is intentional** — small sections (e.g., a single forum post) may be much smaller than the max size, while long entries will be recursively split until they fit within the size + overlap constraints. The ingestion output includes metadata (`source`, `chunk_id`, `word_count`) to make debugging and retrieval logging straightforward.
 
 ---
 
