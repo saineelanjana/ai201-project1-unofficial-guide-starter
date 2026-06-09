@@ -27,15 +27,29 @@
 |---|--------|-------------|-----------------|
 | 1 | OMSHub Data Archive | Raw static catalog, tracking metadata, historical workload hours, and program constraints. | `https://github.com/omshub/data/tree/main/static` |
 | 2 | Reddit Thread: Foundational Requirement | Student thread clarifying the reality of first-year rules and leniency regarding the "2 Bs in 12 months" policy. | `https://www.reddit.com/r/OMSCS/comments/1fskt68/foundational_course_requirement/` |
-| 3 | Unofficial Orientation Guide FAQ | The official registration timeline, waitlist operations, and Phase II time ticket strategies. | `https://www.reddit.com/r/OMSCS/wiki/index` |
-| 4 | Reddit Thread: Working & Pairing Classes | Community advice thread on realistic multi-course pairs for professionals balancing a full-time job. | `https://www.reddit.com/r/OMSCS/comments/u0gqfe/class_pairing_advice/` |
-| 5 | Unofficial Admissions Prep Thread | Forum list of accepted accredited regional college courses (like Oakton/Foothill) used to bridge non-CS backgrounds. | `https://www.reddit.com/r/OMSCS/comments/v3gnp6/community_college_courses_for_admission/` |
-| 6 | GT Computing Systems Spec | Official academic checklist tracking foundational choices and electives for the Core Systems specialization. | `https://omscs.gatech.edu/specialization-computing-systems` |
-| 7 | Reddit Thread: Summer vs. Fall Term | Student comparisons breakdown analyzing the intense 11-week summer crunch vs. regular 16-week terms. | `https://www.reddit.com/r/OMSCS/comments/1cn60or/multiple_courses_during_summer_term/` |
-| 8 | Academic Standing Regulations | Georgia Tech Registrar policy text detailing rules on Academic Warnings, probation, and transcript "W" drops. | `https://catalog.gatech.edu/rules/6/` |
-| 9 | Reddit Thread: ML Curriculum Evaluation | Critical alumni and student review thread discussing the modern workplace relevance of the Machine Learning track. | `https://www.reddit.com/r/OMSCS/comments/wjigw3/omshub_site_update/` |
-| 10 | Bursar Tuition Reimbursement Policy | Official payment deadlines, third-party corporate voucher procedures, and fee breakdown structures. | `https://bursar.gatech.edu/tuition-fees` |
-
+| 3 | Unofficial Orientation Guide FAQ | The official r/OMSCS Wiki serving as a hub for student-curated advice, track preparation, and administrative hacks. | `https://www.reddit.com/r/OMSCS/wiki/index/` |
+| 4 | Reddit Thread: Comprehensive Data Review | Deep-dive individual retrospective review tracking a massive amount of personal data, metrics, and course thoughts. | `https://www.reddit.com/r/OMSCS/comments/12nh421/my_waytoomuch_data_omscs_review/` |
+| 5 | Reddit Thread: 10-Class Journey Trip | A complete student retrospective reflecting on their path through all 10 courses to graduate the program. | `https://www.reddit.com/r/OMSCS/comments/12k57x1/finished_my_10th_class_my_trip_through_omscs/` |
+| 6 | Reddit Thread: Computing Systems Track Review | Graduate review evaluating specific course selections and project difficulties within the Core Systems track. | `https://www.reddit.com/r/OMSCS/comments/12zn0ha/yet_another_omscs_review_computing_systems_track/` |
+| 7 | Reddit Thread: Incompatible Class Pairings | Classic community advice thread mapping out which heavy-workload courses should never be paired together. | `https://www.reddit.com/r/OMSCS/comments/3qyup9/classes_not_to_take_together_and_classes_that_are/` |
+| 8 | Reddit Comment: Pairing Deep-Dive Context | A high-value specific comment nested within course selection threads providing actionable pairing frameworks. | `https://www.reddit.com/r/OMSCS/comments/3rghng/comment/cwo0wqu/` |
+| 9 | Reddit Megathread: Admissions Results & Chances | Crowdsourced repository of real applicant stats (GPA, background, prerequisites) and their acceptance outcomes. | `https://www.reddit.com/r/OMSCS/comments/1pyef6c/admissions_megathread_results_chances_and/` |
+| 10 | Reddit Megathread: Course Specs & Capacity Logistics | Comprehensive thread tracking course selection strategies, registration dynamics, and capacity limitations. | `https://www.reddit.com/r/OMSCS/comments/1pyef5z/course_specs_megathread_selection_choices/` |
+| 11 | Reddit Thread: 2025 Difficulty Rankings | Quantitative community leaderboard ranking all program courses by difficulty and weekly hours. | `https://www.reddit.com/r/OMSCS/comments/1hsbc76/all_courses_ranked_by_difficulty_2025_springfall/` |
+| 12 | GT Computing Systems Spec | Official academic checklist tracking foundational choices and electives for the Core Systems specialization. | `https://omscs.gatech.edu/specialization-computing-systems` |
+| 13 | GT Machine Learning Spec | Official curriculum, core courses, and elective options for the popular Machine Learning specialization. | `https://omscs.gatech.edu/specialization-machine-learning` |
+| 14 | GT Artificial Intelligence Spec | Official requirements for the AI track (formerly known as Interactive Intelligence). | `https://omscs.gatech.edu/specialization-artificial-intelligence-formerly-interactive-intelligence` |
+| 15 | GT Computational Perception & Robotics Spec | Official curriculum mapping for the intersection of computer vision, robotics, and physical systems. | `https://omscs.gatech.edu/specialization-computational-perception-and-robotics` |
+| 16 | GT Computer Graphics Spec | Official academic guidelines and prerequisite tracks for the Computer Graphics specialization. | `https://omscs.gatech.edu/specialization-computer-graphics` |
+| 17 | GT Human-Computer Interaction Spec | Official tracking sheet detailing requirements for interface design, evaluation, and user experience courses. | `https://omscs.gatech.edu/specialization-human-computer-interaction` |
+| 18 | GT Research Opportunities Portal | Official institutional framework explaining how online students can pursue formal research (CS 6999). | `https://omscs.gatech.edu/research-opportunities` |
+| 19 | GT Preparing Yourself for OMSCS | Official self-assessment page recommending specific mathematical foundations and programming competencies. | `https://omscs.gatech.edu/preparing-yourself-omscs` |
+| 20 | GT Prospective Student FAQs | Official baseline information covering technical setup requirements, degree legitimacy, and proctoring. | `https://omscs.gatech.edu/prospective-student-faqs` |
+| 21 | Academic Standing Regulations | Georgia Tech Registrar policy text (Rule 6) detailing rules on academic standing and transcript marks. | `https://catalog.gatech.edu/rules/6/` |
+| 22 | GT Admission Criteria | Official baseline documentation for GPA minimums, academic background requirements, and documentation rules. | `https://omscs.gatech.edu/admission-criteria` |
+| 23 | GT Application Deadlines & Guidelines | Official calendar timelines, letter of recommendation instructions, and portfolio requirements. | `https://omscs.gatech.edu/deadlines-decisions-requirements-and-guidelines` |
+| 24 | GT Overall Degree Requirements | Institutional checklist for graduation: 30 credit hours, GPA floors, and core vs. elective splits. | `https://omscs.gatech.edu/degree-requirements` |
+| 25 | GT Current Course Catalog | Official active inventory of courses currently being offered to online students in the active semester. | `https://omscs.gatech.edu/current-courses` |
 ---
 
 ## Chunking Strategy
@@ -45,15 +59,20 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** Variable by Document Type (150 to 500 tokens)
+**Chunk size:** 300 tokens max (via recursive splitting)
 
-**Overlap:** 50 tokens applied globally to maintain context across boundaries, ensuring abbreviations like "GIOS" or "GA" remain tied to their neighboring advice if a split occurs near a keyword.
+**Overlap:** 50 tokens
+
+**Separators:** `["\n\n", "\n", ". ", " "]` (paragraph → line → sentence → word)
 
 **Reasoning:**
-My corpus contains two entirely distinct document architectures that require a Per-Document-Type (Hybrid) chunking strategy to optimize retrieval precision:
+Use `RecursiveCharacterTextSplitter` for all documents. This approach:
+- Respects natural boundaries (paragraphs, sentences) rather than cutting arbitrarily at fixed token count
+- Produces variable-size chunks (80–300 tokens) that reflect content structure
+- Keeps advice blocks and policy statements together instead of splitting mid-thought
+- Still simple: one splitter, no routing logic, no per-document-type complexity
 
-1. **Institutional/Policy Documents (Sources 6, 8, 10):** These will utilize structural Markdown/Header-based chunking with a larger size target (~400-500 tokens). This prevents the system from splitting critical academic rule checklists or bursar payment deadliness mid-sequence, keeping constraints and exceptions coupled together.
-2. **Conversational Forum Threads (Sources 2, 4, 7, 9):** These will utilize Recursive Character splitting optimized for sentence boundaries with a tighter chunk window (~150-250 tokens). Smaller chunks isolate highly specific student insights and course recommendations without diluting the semantic vector with surrounding fluff.
+**Chunk variance is intentional** — a 100-token chunk means a complete thought wrapped up. A 280-token chunk means a big advice block. This structure will be visible in retrieval logs and helps with debugging. If something breaks, the log will show "oh, this advice got split across two chunks at a paragraph boundary" rather than "some random token-count boundary."
 
 ---
 
@@ -119,32 +138,37 @@ flowchart TD
     classDef stage fill:#23272e,stroke:#3b4048,stroke-width:2px,color:#abb2bf;
     classDef tool fill:#282c34,stroke:#61afef,stroke-width:1px,color:#61afef;
     classDef storage fill:#282c34,stroke:#98c379,stroke-width:1px,color:#98c379;
+    classDef observe fill:#282c34,stroke:#e06c75,stroke-width:1px,color:#e06c75;
 
-    subgraph Pipeline [OMSCS RAG Pipeline Architecture]
+    subgraph Pipeline [Simple OMSCS RAG Pipeline]
         
         %% Stage 1
-        A[1. Document Ingestion]:::stage -->|Raw Files| B(Python File I/O & Custom Title Appender):::tool
-        B -->|Routed Paths| C[2. Document Chunking]:::stage
+        A[1. Document Ingestion]:::stage -->|Raw Files| B(Python: Read all files<br>Append source filename):::tool
+        B -->|Routed| C[2. Chunking]:::stage
         
         %% Stage 2
-        C -->|Policy Files| D(LangChain MarkdownTextSplitter<br>Size: 500 / Overlap: 50):::tool
-        C -->|Forum Threads| E(LangChain RecursiveCharacterTextSplitter<br>Size: 200 / Overlap: 50):::tool
+        C --> D(LangChain RecursiveCharacterTextSplitter<br>Size: 300 tokens / Overlap: 50<br>Respects boundaries: paragraph → sentence):::tool
         
         %% Stage 3
-        D & E -->|Text Chunks| F[3. Embedding & Vector Store]:::stage
-        F --> G(HuggingFace sentence-transformers<br>all-MiniLM-L6-v2):::tool
-        G -->|Vectors| H[(Local ChromaDB Store)]:::storage
+        D -->|Text Chunks| E[3. Embedding & Store]:::stage
+        E --> F(HuggingFace sentence-transformers<br>all-MiniLM-L6-v2):::tool
+        F -->|Vectors| G[(ChromaDB Local)]:::storage
         
         %% Stage 4
-        I((User Query)) --> J[4. Semantic Retrieval]:::stage
-        H -.->|Query Match| J
-        J -->|Top-k = 4 Chunks| K(Vector Similarity Search via ChromaDB API):::tool
+        H((User Query)) --> I[4. Retrieval]:::stage
+        G -.->|Top-k=4| I
+        I -->|Chunks + Metadata| J(ChromaDB Similarity Search):::tool
         
         %% Stage 5
-        K -->|Context + Query| L[5. Generation & Interface]:::stage
-        M(System Prompt Context Rules) --> L
-        L --> N(LLM API Engine<br>OpenAI / Ollama):::tool
-        N -->|Streamed Response| O((Terminal CLI / Streamlit UI))
+        J -->|Context + Query| K[5. Generation]:::stage
+        K --> L(OpenAI / Local LLM):::tool
+        L -->|Response| M((CLI Output))
+        
+        %% Observation & Logging
+        J --> N[📊 Log Retrieved Chunks]:::observe
+        M --> O[📊 Log Response Quality]:::observe
+        N --> P[(retrieval_log.json)]:::observe
+        O --> P
         
     end
 ```
@@ -162,20 +186,45 @@ flowchart TD
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-**Milestone 3 — Ingestion and chunking:**
-* **AI Tool:** Claude 3.5 Sonnet (for core logic) + GitHub Copilot (for in-line typing and syntax autocomplete).
-* **Input to AI:** I will feed Claude the **Chunking Strategy** section of this `planning.md` file along with short text samples from my raw docs (one Reddit thread and one academic policy page).
-* **Expected Output:** A Python script (`ingest.py`) that uses `LangChain` to dynamically route documents—using `MarkdownTextSplitter` (chunk size 500, overlap 50) for academic policies and `RecursiveCharacterTextSplitter` (chunk size 200, overlap 50) for Reddit threads, automatically appending thread titles to the top of forum chunks.
-* **Verification:** I will print out a random selection of generated chunks to the console using a quick testing loop written via Copilot, ensuring that the conversational text blocks are properly anchored to their thread context.
+**Milestone 3 — Ingestion and Chunking (Keep It Dumb):**
+* **AI Tool:** Claude 3.5 Sonnet + GitHub Copilot
+* **Input to AI:** The **Chunking Strategy** section (RecursiveCharacterTextSplitter with 300-token max) + samples of my cleaned markdown files
+* **Expected Output:** A Python script (`ingest.py`) that:
+  - Reads all files from `documents/wikis/` and `documents/reviews_cleaned/`
+  - Splits each using `RecursiveCharacterTextSplitter(chunk_size=300, chunk_overlap=50, separators=["\n\n", "\n", ". ", " "])`
+  - Appends source filename to each chunk metadata
+  - Outputs JSON list of chunks ready for embedding
+* **Verification:** Print 5 random chunks to inspect they respect paragraph/sentence boundaries and include source metadata
 
-**Milestone 4 — Embedding and retrieval:**
-* **AI Tool:** Claude 3.5 Sonnet (for DB structure) + Copilot (for troubleshooting).
-* **Input to AI:** I will supply the **Retrieval Approach** section to Claude, alongside my completed chunking pipeline. If I hit any version mismatches or installation errors with `ChromaDB` or `sentence-transformers`, I will read the terminal logs using copilot.
-* **Expected Output:** A database configuration script (`vector_store.py`) that embeds the chunks using `all-MiniLM-L6-v2`, stores them locally, and implements a `retrieve_docs(query, k=4)` utility function.
-* **Verification:** I will run a test query like *"How hard is GIOS over the summer?"* and print out the source file paths of the matching chunks to ensure it successfully retrieves documents from the summer thread (`thread_summer_vs_fall_workload.md`).
+**Milestone 4 — Embedding & Vector Store:**
+* **AI Tool:** Claude 3.5 Sonnet + Copilot
+* **Input to AI:** The **Retrieval Approach** section + my ingest.py output
+* **Expected Output:** A script (`vector_store.py`) that:
+  - Loads chunks from ingest.py output
+  - Embeds using `all-MiniLM-L6-v2` (sentence-transformers)
+  - Stores in local ChromaDB
+  - Exports a `retrieve_docs(query, k=4)` function
+* **Verification:** Run `retrieve_docs("GIOS workload")` and print source files + chunk snippets
 
-**Milestone 5 — Generation and interface:**
-* **AI Tool:** Claude 3.5 Sonnet (for the prompt engineering and API wiring).
-* **Input to AI:** I will pass my **Evaluation Plan** query-answer table, the functional `retrieve_docs` helper, and my required system prompt guidelines (e.g., *"Stay objective, reference explicit course abbreviations like GIOS or GA, and mention workload consensus hours"*).
-* **Expected Output:** A core application script (`app.py`) using an open-source LLM inference library (such as OpenAI or Ollama) that accepts user queries, fetches relevant vector context, injects it into a structured prompt layout, and streams back responses through a clean command-line interface or minimalist UI.
-* **Verification:** I will run all 5 baseline queries defined in the **Evaluation Plan** through the completed app and verify that the output matches the expected academic reality without hallucinations or data corruption.
+**Milestone 5 — Generation with Logging (Most Important):**
+* **AI Tool:** Claude 3.5 Sonnet
+* **Input to AI:** The **Evaluation Plan** queries + my retrieve_docs function + the **Results & Learnings Log** template
+* **Expected Output:** A script (`app.py`) that:
+  - Accepts user queries over CLI
+  - Calls retrieve_docs to get context
+  - Sends to LLM (use OpenAI if key available, else fail gracefully)
+  - **Logs everything** to `test_results_{timestamp}.json`:
+    - Query text
+    - Retrieved chunk sources and content
+    - LLM response
+    - Whether it matches evaluation criteria
+  - Outputs response to terminal
+* **Verification:** Run all 5 evaluation queries and check `test_results_*.json` is populated. Manual review: did it pass or fail? Why?
+
+**Post-Run Analysis (The Real Work):**
+After each test run, review your logs and update the **Results & Learnings Log** table with:
+- What passed vs. failed
+- Why you think it passed/failed
+- What to try next (e.g., "Try token size 250" or "Add alias injection")
+
+Repeat.
