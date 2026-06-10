@@ -47,18 +47,22 @@ def load_chunks(path: str) -> List[Dict[str, Any]]:
 
 
 def _init_chroma_client(persist_dir: str = CHROMA_PERSIST_DIR):
-    """Initialize a chromadb client with a persistent directory when possible.
-    This handles different chromadb versions by trying Settings first.
-    """
+    """Initialize a chromadb client with a persistent directory when possible."""
+    os.makedirs(persist_dir, exist_ok=True)
+
     try:
-        if Settings is not None:
-            client = chromadb.Client(Settings(persist_directory=persist_dir))
-        else:
-            client = chromadb.Client()
-    except Exception:
-        # Final fallback
-        client = chromadb.Client()
-    return client
+        # Try PersistentClient (chromadb >= 0.5.0)
+        return chromadb.PersistentClient(path=persist_dir)
+    except (AttributeError, TypeError):
+        # Fallback to older API
+        try:
+            if Settings is not None:
+                return chromadb.Client(Settings(persist_directory=persist_dir, allow_reset=True))
+        except Exception:
+            pass
+
+    # Final fallback
+    return chromadb.Client()
 
 
 def create_collection(client, name: str):

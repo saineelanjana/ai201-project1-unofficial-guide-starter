@@ -1,0 +1,264 @@
+[
+  {
+    "timestamp": "2026-06-09T18:36:58.460434",
+    "query": "What preparatory CS courses should a non-traditional applicant take for OMSCS admissions?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md",
+      "documents/reviews_cleaned/finally_got_out.json.md",
+      "documents/wikis/preparing-yourself",
+      "documents/wikis/prospective-faqs"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md",
+      "documents/reviews_cleaned/finally_got_out.json.md",
+      "documents/wikis/preparing-yourself",
+      "documents/wikis/prospective-faqs"
+    ],
+    "response_length": 565,
+    "response_preview": "I don't have enough information on that topic in the available documents. \n\nThe documents provided do not explicitly state the preparatory CS courses that a non-traditional applicant should take for O..."
+  },
+  {
+    "timestamp": "2026-06-09T18:36:59.173171",
+    "query": "What are the best courses to pair with CS 6200 (GIOS) for someone working full-time?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/wikis/specialization-computing-systems"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/wikis/specialization-computing-systems"
+    ],
+    "response_length": 325,
+    "response_preview": "I don't have enough information on that topic in the available documents. \n\nThe documents provided do not contain specific information about the best courses to pair with CS 6200 (GIOS) for someone wo..."
+  },
+  {
+    "timestamp": "2026-06-09T18:36:59.582372",
+    "query": "What is the current CEO of Google and when were they appointed?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/deadlines-admissions-criteria",
+      "documents/reviews_cleaned/admissions_megathread.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md",
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/deadlines-admissions-criteria"
+    ],
+    "response_length": 73,
+    "response_preview": "I don't have enough information on that topic in the available documents."
+  },
+  {
+    "timestamp": "2026-06-09T18:37:26.111601",
+    "query": "What courses should someone pair with GIOS CS 6200 if working full-time?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/reviews_cleaned/course_difficulties.json.md",
+      "documents/wikis/specialization-computing-systems",
+      "documents/reviews_cleaned/computing_systems_track.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/computing_systems_track.json.md",
+      "documents/reviews_cleaned/course_difficulties.json.md",
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/wikis/specialization-computing-systems"
+    ],
+    "response_length": 372,
+    "response_preview": "I don't have enough information on that topic in the available documents. \n\nThe documents provided do not contain specific information about which courses to pair with GIOS CS 6200, especially for som..."
+  },
+  {
+    "timestamp": "2026-06-09T18:38:01.436901",
+    "query": "How long are summer semesters and how do they compare to fall/spring?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/wikis/scholastic-regulations",
+      "documents/reviews_cleaned/omscs_faqs.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/scholastic-regulations"
+    ],
+    "response_length": 664,
+    "response_preview": "According to Source 1: documents/reviews_cleaned/omscs_faqs.json.md, summer semesters are anywhere from 10-13 weeks, whereas fall and spring semesters last 15 weeks. \n\nI don't have enough information ..."
+  },
+  {
+    "timestamp": "2026-06-09T18:39:52.849201",
+    "query": "How long are summer semesters compared to fall/spring?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/scholastic-regulations"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/scholastic-regulations"
+    ],
+    "response_length": 399,
+    "response_preview": "According to Source 1: documents/reviews_cleaned/omscs_faqs.json.md, \"In the Fall and Spring, the term lasts 15 weeks. In the Summer, they can be anywhere from 10-13 weeks.\" This indicates that summer..."
+  },
+  {
+    "timestamp": "2026-06-09T18:39:53.252781",
+    "query": "What is the salary for a ML engineer at Google?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md",
+      "documents/reviews_cleaned/trip_through_omscs.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md",
+      "documents/reviews_cleaned/trip_through_omscs.json.md"
+    ],
+    "response_length": 73,
+    "response_preview": "I don't have enough information on that topic in the available documents."
+  },
+  {
+    "timestamp": "2026-06-09T18:39:54.277805",
+    "query": "What is GIOS and how demanding is it?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/computing_systems_track.json.md",
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/reviews_cleaned/course_difficulties.json.md",
+      "documents/reviews_cleaned/trip_through_omscs.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/computing_systems_track.json.md",
+      "documents/reviews_cleaned/course_difficulties.json.md",
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/reviews_cleaned/trip_through_omscs.json.md"
+    ],
+    "response_length": 1014,
+    "response_preview": "Based on the provided documents, GIOS is a course in the OMSCS program, but its full name and description are not provided. \n\nAs for how demanding it is, one student planned to spend at least 20 hours..."
+  },
+  {
+    "timestamp": "2026-06-09T18:44:24.520766",
+    "query": "How long are summer semesters compared to fall/spring?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/wikis/scholastic-regulations",
+      "documents/reviews_cleaned/omscs_faqs.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/scholastic-regulations"
+    ],
+    "response_length": 399,
+    "response_preview": "According to Source 1: documents/reviews_cleaned/omscs_faqs.json.md, \"In the Fall and Spring, the term lasts 15 weeks. In the Summer, they can be anywhere from 10-13 weeks.\" This indicates that summer..."
+  },
+  {
+    "timestamp": "2026-06-09T18:44:25.023838",
+    "query": "What is the salary for a ML engineer at Google?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md",
+      "documents/reviews_cleaned/trip_through_omscs.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md",
+      "documents/reviews_cleaned/trip_through_omscs.json.md"
+    ],
+    "response_length": 73,
+    "response_preview": "I don't have enough information on that topic in the available documents."
+  },
+  {
+    "timestamp": "2026-06-09T18:44:25.944117",
+    "query": "What is GIOS and how demanding is it?",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/computing_systems_track.json.md",
+      "documents/reviews_cleaned/trip_through_omscs.json.md",
+      "documents/reviews_cleaned/course_difficulties.json.md",
+      "documents/reviews_cleaned/courses_megathread.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/computing_systems_track.json.md",
+      "documents/reviews_cleaned/course_difficulties.json.md",
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/reviews_cleaned/trip_through_omscs.json.md"
+    ],
+    "response_length": 852,
+    "response_preview": "Based on the provided documents, GIOS is a course in the OMSCS program, but its full name and description are not provided. \n\nAs for its demanding nature, one student planned to spend at least 20 hour..."
+  },
+  {
+    "timestamp": "2026-06-09T18:50:13.130424",
+    "query": "\"What are the foundational course requirements?\"",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/wikis/prospective-faqs",
+      "documents/reviews_cleaned/omscs_faqs.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/prospective-faqs"
+    ],
+    "response_length": 650,
+    "response_preview": "The foundational courses are indicated by asterisks in the course listings on the Current Courses page of the website [Source 3: documents/wikis/prospective-faqs]. However, the specific courses that a..."
+  },
+  {
+    "timestamp": "2026-06-09T18:50:39.978615",
+    "query": "How does summer semester compare to fall/spring?\"",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/wikis/global-stats.json",
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/reviews_cleaned/omscs_faqs.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/courses_megathread.json.md",
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/global-stats.json"
+    ],
+    "response_length": 800,
+    "response_preview": "According to the documents, the summer semester compares to fall/spring in terms of duration. Specifically, Source 2 states that \"In the Fall and Spring, the term lasts 15 weeks. In the Summer, they c..."
+  },
+  {
+    "timestamp": "2026-06-09T18:51:18.724350",
+    "query": "salary of google engineer",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/admissions_megathread.json.md"
+    ],
+    "response_length": 73,
+    "response_preview": "I don't have enough information on that topic in the available documents."
+  },
+  {
+    "timestamp": "2026-06-09T18:51:31.180059",
+    "query": "start of seester omscs\n",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/wikis/current-courses",
+      "documents/reviews_cleaned/omscs_faqs.json.md"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/current-courses"
+    ],
+    "response_length": 73,
+    "response_preview": "I don't have enough information on that topic in the available documents."
+  },
+  {
+    "timestamp": "2026-06-09T18:51:40.189618",
+    "query": "best first class omscs",
+    "retrieved_chunks_count": 4,
+    "retrieved_sources": [
+      "documents/reviews_cleaned/computing_systems_track.json.md",
+      "documents/wikis/current-courses",
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/research-opportunities"
+    ],
+    "cited_sources": [
+      "documents/reviews_cleaned/computing_systems_track.json.md",
+      "documents/reviews_cleaned/omscs_faqs.json.md",
+      "documents/wikis/current-courses",
+      "documents/wikis/research-opportunities"
+    ],
+    "response_length": 479,
+    "response_preview": "According to the documents, the best first class for OMSCS is \"Graduate Introduction to Operating Systems\". This is stated in Source 3: documents/reviews_cleaned/computing_systems_track.json.md, where..."
+  }
+]
